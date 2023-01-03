@@ -1,0 +1,14 @@
+#include <stdio.h> //header file
+//preprocessor directive handled by the pre-processor
+
+int main(void)
+{
+  int a;
+  
+  printf("assign the variable a value of integer type: \n");
+  scanf("%d",&a);
+  
+  printf("a = %d",a);
+  
+  return 0;
+}
