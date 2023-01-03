@@ -2,7 +2,7 @@
 main()
 {	
 	 char x, y, z,temp;
-	printf("donner les 3 charactÈre: ");
+	printf("donner les 3 charact√©re: ");
 	//scanf(" %c %c %c",&x,&y,&z); //flhorof lazem dir elespace parceque "entrer" y9raha harf w yhotha fla cas y
 	
 	/*scanf("%c",&x); 
@@ -11,7 +11,7 @@ main()
 	scanf("%c",&z);*/
 	
 	/*scanf(" %c",&x); 
-	fflush(stdin);				//fflush(stdin) fflush(stdout)     	Although using ìfflush(stdin)î after ìscanf()î statement also clears the input buffer in certain compilers, it is not recommended 
+	fflush(stdin);				//fflush(stdin) fflush(stdout)     	Although using ‚Äúfflush(stdin)‚Äù after ‚Äúscanf()‚Äù statement also clears the input buffer in certain compilers, it is not recommended 
 								//flushes the input buffer								to use it as it is undefined behavior by the language standards. In C and C++,
 																	we have different methods to clear the buffer discussed in this post.							
 	scanf("%c",&y);
