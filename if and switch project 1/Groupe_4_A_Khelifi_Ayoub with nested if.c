@@ -4,7 +4,7 @@ main(){
 	int s;
 	char u;
 	printf("\n\t\t\t\t\tBonjour et bienvenu a ce convertisseur d'unite!\n");
-	printf("Veuillez choisir l'unite en tapant:\n ==> 'D' pour Devise\n ==> 'T' pour Température\n ==> 'M' pour Masse\n ==> 'L' pour Longueur\n ==> 'V' pour Vitesse.\n");
+	printf("Veuillez choisir l'unite en tapant:\n ==> 'D' pour Devise\n ==> 'T' pour TempÃ©rature\n ==> 'M' pour Masse\n ==> 'L' pour Longueur\n ==> 'V' pour Vitesse.\n");
 	scanf("%c",&u);
 	if (u == 'D'){
 		printf("Veuillez choisir le sens de la converion en tapant:\n ==> 1 pour DA => USD\n ==> 2 pour USD => DA\n");
