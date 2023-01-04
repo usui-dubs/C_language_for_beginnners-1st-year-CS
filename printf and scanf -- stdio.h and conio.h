@@ -1,7 +1,7 @@
 #include <stdio.h> //header file
 //preprocessor directive handled by the pre-processor
 //stands for "STanDard input/output" 
-//whearas include<conio.h> stands for COnSole input-output
+//whereas include<conio.h> stands for COnSole input-output
 //one of its functions is getch();
 
 int main(void)
