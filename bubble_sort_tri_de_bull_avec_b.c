@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define MAX 100
 
-bubble_sort( array[], N)
+bubble_sort(int array[], int N)
 {
     int i,j,b=1,k;
     for(i=0; i<N-1 && b==1; i++) //for(i=N-1; i>0; i--)
